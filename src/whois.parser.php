@@ -832,6 +832,7 @@ else
 
 		if ($format[$i] != '-')
 			{
+			if(!is_array($res)) $res = [];
 			$res[$format[$i]] = $parts[$p];
 			}
 		$i++;
