@@ -96,7 +96,7 @@ $this->WHOIS_SPECIAL = array(
 		'gr'	 => '',
 		'gs'     => 'http://www.adamsnames.tc/whois/?domain={domain}.gs',
 		'gt'	 => 'http://www.gt/Inscripcion/whois.php?domain={domain}.gt',
-		'me'	 => 'whois.meregistry.net',
+		'me'	 => 'whois.nic.me',
 		'mobi'	 => 'whois.dotmobiregistry.net',
 		'ms'     => 'http://www.adamsnames.tc/whois/?domain={domain}.ms',
 		'mt'	 => 'http://www.um.edu.mt/cgi-bin/nic/whois?domain={domain}.mt',
